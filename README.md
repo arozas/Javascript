@@ -1,2 +1,2 @@
 # Javascript
-Curso de JavaScript.
+En este repositorio iré subiendo mis practicas de distintos cursos para mi profesionalización en JavaScript.
